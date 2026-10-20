@@ -1,0 +1,5 @@
+#Create a ship with torpedos only in secondary store
+GT4500,0,0,10,0
+TORPEDO,SINGLE #should have fired from secondary, since primary is empty
+TORPEDO,SINGLE # should have fired from secondary, since primary is empty
+TORPEDO,ALL #should have fired from secondary, since primary is empty
