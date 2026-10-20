@@ -1,0 +1,4 @@
+#Create a ship with failrate 1.0 on both stores
+GT4500,10,1.0,10,1.0
+TORPEDO,SINGLE #should not have fired
+TORPEDO,ALL #should not have fired
